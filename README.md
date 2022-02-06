@@ -12,7 +12,8 @@ BeautifulSoup
 
 ## Used Python library
 ```
-pandas
+1. requests
+2. pandas
 ```
 
 ## Data scraped from:
