@@ -18,5 +18,5 @@ BeautifulSoup
 
 ## Data scraped from:
 ```
-[iherb](https://iherb.com/)
+[iherb](https://sk.iherb.com/c/sports-accessories)
 ```
