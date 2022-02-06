@@ -1,13 +1,21 @@
 # web-scraping-2
 
-##Used web application##
-- Jupyter Notebook
+##Web application that I used##
+```
+Jupyter Notebook
+```
 
 ##Used Python packages##
-- BeautifulSoup
+```
+BeautifulSoup
+```
 
 ##Used Python library##
-- pandas
+```
+pandas
+```
 
 ##Data scraped from:##
--[iherb](https://iherb.com/)
+```
+[iherb](https://iherb.com/)
+```
